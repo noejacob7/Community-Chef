@@ -24,10 +24,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-#y56zbjigxsl^8fete0p0gdw1j^lb4*8fc(ai$6%!0dx0_s%wl'
+SECRET_KEY = 'INPUT YOUR OWN KEY'
 
 # Your OpenAI API key
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'INPUT YOUR OWN KEY'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
